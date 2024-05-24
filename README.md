@@ -5,6 +5,8 @@ Welcome to the 7 Days Python Challenge! This repository contains all the materia
 In this challenge we will learn the basics of python by solving real world problems
 and making cool projects.
 
+<img src="./Python 7 days Challenge.png">
+
 ## Table of Contents
 
 - [Introduction](#introduction)
