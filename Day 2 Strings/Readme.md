@@ -1,5 +1,7 @@
 # Day 2 of 7 Days Python Challenge
 
+<img src="./Day 02 of Python Challenge.png">
+
 ## Topics Covered
 
 ### Strings and Methods
